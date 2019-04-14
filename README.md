@@ -1,1 +1,1 @@
-# Game-2D
+# HTML and Pure Javascript Game.
